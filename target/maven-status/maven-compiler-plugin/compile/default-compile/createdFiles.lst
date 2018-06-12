@@ -1,0 +1,12 @@
+bank\loginservlet.class
+bank\logout.class
+transoperations\deposit.class
+transoperations\transactionservlet.class
+bank\SingleTon.class
+bank\Transaction.class
+bank\interval.class
+bank\dashboard.class
+transoperations\withdraaw.class
+bank\userutils.class
+bank\operations.class
+bank\bankdoa.class

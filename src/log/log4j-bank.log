@@ -1,0 +1,5 @@
+2018-06-04 11:20:45 INFO  bankdoa login :73 - sucessfull login
+2018-06-04 11:20:45 DEBUG bankdoa login :75 - Select * from banking where name=? and password=?
+2018-06-04 11:20:45 DEBUG bankdoa Last_Login :269 - Select accno,rdate from banking where name=?
+2018-06-04 11:20:45 INFO  loginservlet doPost :49 - login successfull
+2018-06-04 11:20:45 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?

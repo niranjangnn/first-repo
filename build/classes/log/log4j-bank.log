@@ -1,0 +1,68 @@
+2018-05-15 11:34:25 DEBUG bankdoa:72 - sucessfull login%2018-05-15 11:34:26 INFO  loginservlet:49 - login successfull%2018-05-15 11:36:21 DEBUG bankdoa login :72 - sucessfull login%2018-05-15 11:36:22 INFO  loginservlet doPost :49 - login successfull%2018-05-15 11:40:18 DEBUG bankdoa login :73 - sucessfull login%2018-05-15 11:40:18 INFO  loginservlet doPost :49 - login successfull%2018-05-15 11:46:42 DEBUG bankdoa login :74 - sucessfull login
+2018-05-15 11:46:42 INFO  loginservlet doPost :49 - login successfull
+2018-05-15 11:47:08 DEBUG bankdoa login :74 - sucessfull login
+2018-05-15 11:47:08 INFO  loginservlet doPost :49 - login successfull
+2018-05-15 11:49:25 DEBUG bankdoa registration :31 - insert into banking(accno,name,bdate,password,actype,amount,email)values(acnoseq.nextval,?,?,?,?,?,?)
+2018-05-15 11:49:25 DEBUG bankdoa registration :32 - sucessfull registered
+2018-05-15 11:49:39 DEBUG bankdoa registration :31 - insert into banking(accno,name,bdate,password,actype,amount,email)values(acnoseq.nextval,?,?,?,?,?,?)
+2018-05-15 11:49:39 DEBUG bankdoa registration :32 - sucessfull registered
+2018-05-15 11:53:01 DEBUG bankdoa registration :31 - insert into banking(accno,name,bdate,password,actype,amount,email)values(acnoseq.nextval,?,?,?,?,?,?)
+2018-05-15 11:53:01 DEBUG bankdoa registration :32 - sucessfull registered
+2018-05-15 11:53:02 INFO  bankdoa registration :45 - data stored successfull
+2018-05-15 11:56:48 DEBUG bankdoa login :73 - sucessfull login
+2018-05-15 11:56:49 INFO  loginservlet doPost :49 - login successfull
+2018-05-15 12:03:46 INFO  bankdoa login :73 - sucessfull login
+2018-05-15 12:03:46 DEBUG bankdoa login :75 - Select * from banking where name=? and password=?
+2018-05-15 12:03:47 DEBUG bankdoa Last_Login :269 - Select accno,rdate from banking where name=?
+2018-05-15 12:03:47 INFO  loginservlet doPost :49 - login successfull
+2018-05-15 12:03:47 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:03:54 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:04:04 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:04:29 DEBUG bankdoa deposit :144 - sucessfull deposited
+2018-05-15 12:04:29 DEBUG bankdoa deposit :146 - select * from banking where accno=?
+2018-05-15 12:04:29 INFO  bankdoa deposit :164 - deposited sucessfull
+2018-05-15 12:04:56 DEBUG bankdoa withdraw :179 - sucessfull withdrwan
+2018-05-15 12:04:56 DEBUG bankdoa withdraw :181 - select * from banking where accno=?
+2018-05-15 12:08:59 INFO  bankdoa login :73 - sucessfull login
+2018-05-15 12:08:59 DEBUG bankdoa login :75 - Select * from banking where name=? and password=?
+2018-05-15 12:08:59 DEBUG bankdoa Last_Login :269 - Select accno,rdate from banking where name=?
+2018-05-15 12:08:59 INFO  loginservlet doPost :49 - login successfull
+2018-05-15 12:08:59 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:27:21 INFO  bankdoa login :73 - sucessfull login
+2018-05-15 12:27:21 DEBUG bankdoa login :75 - Select * from banking where name=? and password=?
+2018-05-15 12:27:21 DEBUG bankdoa Last_Login :269 - Select accno,rdate from banking where name=?
+2018-05-15 12:27:21 INFO  loginservlet doPost :49 - login successfull
+2018-05-15 12:27:22 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:27:31 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:27:41 INFO  bankdoa login :73 - sucessfull login
+2018-05-15 12:27:41 DEBUG bankdoa login :75 - Select * from banking where name=? and password=?
+2018-05-15 12:27:41 DEBUG bankdoa Last_Login :269 - Select accno,rdate from banking where name=?
+2018-05-15 12:27:41 INFO  loginservlet doPost :49 - login successfull
+2018-05-15 12:27:41 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:28:42 INFO  bankdoa login :73 - sucessfull login
+2018-05-15 12:28:42 DEBUG bankdoa login :75 - Select * from banking where name=? and password=?
+2018-05-15 12:28:42 DEBUG bankdoa Last_Login :269 - Select accno,rdate from banking where name=?
+2018-05-15 12:28:42 INFO  loginservlet doPost :49 - login successfull
+2018-05-15 12:28:42 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:28:51 INFO  bankdoa login :73 - sucessfull login
+2018-05-15 12:28:51 DEBUG bankdoa login :75 - Select * from banking where name=? and password=?
+2018-05-15 12:28:51 DEBUG bankdoa Last_Login :269 - Select accno,rdate from banking where name=?
+2018-05-15 12:28:51 INFO  loginservlet doPost :49 - login successfull
+2018-05-15 12:28:51 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:28:55 INFO  bankdoa login :73 - sucessfull login
+2018-05-15 12:28:55 DEBUG bankdoa login :75 - Select * from banking where name=? and password=?
+2018-05-15 12:28:55 DEBUG bankdoa Last_Login :269 - Select accno,rdate from banking where name=?
+2018-05-15 12:28:55 INFO  loginservlet doPost :49 - login successfull
+2018-05-15 12:28:55 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:29:07 INFO  bankdoa login :73 - sucessfull login
+2018-05-15 12:29:07 DEBUG bankdoa login :75 - Select * from banking where name=? and password=?
+2018-05-15 12:29:07 DEBUG bankdoa Last_Login :269 - Select accno,rdate from banking where name=?
+2018-05-15 12:29:07 INFO  loginservlet doPost :49 - login successfull
+2018-05-15 12:29:07 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:29:09 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:29:16 INFO  bankdoa login :73 - sucessfull login
+2018-05-15 12:29:16 DEBUG bankdoa login :75 - Select * from banking where name=? and password=?
+2018-05-15 12:29:16 DEBUG bankdoa Last_Login :269 - Select accno,rdate from banking where name=?
+2018-05-15 12:29:16 INFO  loginservlet doPost :49 - login successfull
+2018-05-15 12:29:16 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
+2018-05-15 12:29:21 DEBUG bankdoa accountnumber :123 - Select accno from banking where name=?
