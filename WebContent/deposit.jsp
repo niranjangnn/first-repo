@@ -289,7 +289,7 @@ HttpSession ses=request.getSession(false);
                       <li class="">
 									<a href="interval">
 									<i class="menu-icon fa fa-list-"></i>
-										<span class="menu-text"> LOGOUT </span>
+										<span class="menu-text"> LOGOUT HERE</span>
 						</a>								</li>
 	
 
